@@ -1,0 +1,6 @@
+Artificial intelligence (AI) is a rapidly growing field that focuses on creating machines capable of performing tasks that normally require human intelligence. It includes subfields such as machine learning and deep learning.
+
+Machine learning enables computers to learn from data without being explicitly programmed. It is widely used in industries such as healthcare, finance, and transportation.
+
+Natural language processing (NLP) allows computers to understand and communicate in human language. Chatbots and voice assistants are practical applications of NLP.
+
