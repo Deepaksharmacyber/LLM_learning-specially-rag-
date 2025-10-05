@@ -5,7 +5,7 @@ This repository documents my step-by-step learning journey of building a Retriev
 🚀 Phases Overview
 Phase 1 — Foundations: Semantic Search Demo
 
-File: 01_semantic_search_demo.py
+File: main.py
 
 Store 5–10 sentences in a list.
 
@@ -18,7 +18,7 @@ Return the most semantically similar sentence.
 
 Phase 2 — Mini RAG (Without LLM)
 
-File: 02_faiss_retrieval_demo.py
+File: main_2.py
 
 Split a small text file into chunks.
 
@@ -29,7 +29,7 @@ Query → Retrieve most relevant chunks based on similarity.
 
 Phase 3 — RAG with LLM
 
-File: 03_rag_with_llm.py
+File: main_3.py
 
 Add a small LLM (like llamafile API).
 
@@ -40,7 +40,7 @@ LLM generates an answer grounded in the retrieved content.
 
 Phase 4 — PDF Support
 
-File: 04_pdf_rag_system.py
+File: rag_pdf.py
 
 Replace text file with a PDF extractor (e.g., pdfplumber).
 
@@ -51,7 +51,7 @@ Ask questions about PDF content.
 
 Phase 5 — Framework Integration (LangChain / LlamaIndex)
 
-File: 05_langchain_rag_pipeline.py
+File: langchain_rag.py
 
 Recreate the same pipeline using LangChain or LlamaIndex.
 
